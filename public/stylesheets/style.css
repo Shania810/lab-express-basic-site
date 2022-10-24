@@ -1,0 +1,194 @@
+.background{
+ background-image: linear-gradient(to right,#EFA7B5 50%,black 50%);
+ color: white;
+ font-weight: bolder;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+#content-initial{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+    color: pink;
+    width: 950px;
+    text-align: center;
+}
+.title{
+ margin-right:19px;
+}
+.content-color-black{
+   color: black;
+   font-size: 50px;
+}
+.content-color-pink{
+    color: pink;
+    font-size: 50px;
+}
+.size-image{
+ width: 400px;
+ height: 400px;
+}
+.size-album{
+    width: 400px;
+    height: 400px;
+}
+.size-album-video{
+    width: 600px;
+    height: 400px;
+}
+#group-buttons{
+    margin: 20px 0 10px 0;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+}
+button{
+    width: 250px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: 900;
+    border-radius: 8px;
+}
+a{
+    text-decoration: none;
+}
+#button-black{
+   background-color: black;
+}
+.links{
+    color: white;
+}
+#button-pink{
+   background-color: pink;
+}
+#musics{
+    color: black;
+}
+#title-musics{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: solid black;
+    width: 400px;
+    color: black;
+}
+#content-initial-two{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+    color: pink;
+    width: 400px;
+}
+h4{
+    font-size: 40px;
+}
+.color-black-name-singer{
+ color: black;
+ display: flex;
+ justify-content: flex-start;
+}
+.color-pink-name-singer{
+    color:pink;
+    display: flex;
+    justify-content: flex-end;
+}
+.background-align{
+ background-image: linear-gradient(to right,pink 50%,black 50%);
+ color: white;
+ font-weight: bolder;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+.align-center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    margin: 30px 0 20px 0;
+}
+.container-singer-horizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 1200px;
+}
+.content-singer-horizontal{
+    width: 500px;
+    padding: 10px;
+    background-color: white;
+}
+.color-black{
+    color: black;
+}
+.color-pink{
+    color: pink;
+}
+#container-singers{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#title-about{
+    width: 300px;
+    border: 2px solid black;
+    color: pink;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.margin-container{
+    margin-left: 180px;
+}
+.align-image-video{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1100px;
+}
+.container-image-pink{
+   background-color: pink;
+   width: 450px;
+   height: 450px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.container-image-black{
+    background-color: black;
+    width: 450px;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#style-container{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.image-photo{
+    width: 440px;
+    height: 410px;
+    margin: 20px;
+}
